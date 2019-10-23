@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">homework5.1.1</string>
+    <string name="deleteBtn">Удалить</string>
+    <string name="txtTitle">Title Example</string>
+    <string name="txtSubtitle">Subtitle Example</string>
+    <string name="addBtn">+</string>
+</resources>
